@@ -2,9 +2,14 @@ package oracle.concurrency.syncrgb;
 
 import static java.lang.System.out;
 
+/**
+ * @author Chris Wong
+ *
+ */
 public class SynchronizedRGBProperDemo {
 
 	/**
+	 * Main program
 	 * @param args
 	 */
 	public static void main(String[] args) {
