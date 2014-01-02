@@ -1,2 +1,2 @@
 @ECHO OFF
-start %ECLIPSE_HOME%\eclipse.exe -noSplash -data D:\ImmutableObjectsWS\
+start %ECLIPSE_HOME%\eclipse.exe -noSplash -data %CONCURRENCY_HOME%\ImmutableObjectsWS\
